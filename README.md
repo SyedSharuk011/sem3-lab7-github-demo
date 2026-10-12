@@ -1,0 +1,2 @@
+# sem3-lab7-github-demo
+AI NATIVE ENGINEERING FOUNDATION LAB WORK
